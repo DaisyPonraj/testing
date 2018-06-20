@@ -1,0 +1,325 @@
+1529385774335	geckodriver	INFO	geckodriver 0.20.1
+1529385774346	geckodriver	INFO	Listening on 127.0.0.1:50128
+1529385777511	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.70BwvY916Ghz"
+1529385779354	Marionette	INFO	Enabled via --marionette
+[Parent 1000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529385783008	Marionette	INFO	Listening on port 50138
+1529385783605	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529385783678	Marionette	DEBUG	Register listener.js for window 4294967297
+1529385784091	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529385784826	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529385784826	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529385786361	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529385806895	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.flipkart.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode69
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode70
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode97
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode98
+[Parent 1000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9036, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529386862017	geckodriver	INFO	geckodriver 0.20.1
+1529386862024	geckodriver	INFO	Listening on 127.0.0.1:50413
+1529386865153	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.JWkpcv2QHcAo"
+1529386866708	Marionette	INFO	Enabled via --marionette
+[Child 4312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529386869532	Marionette	INFO	Listening on port 50421
+1529386870460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529386870508	Marionette	DEBUG	Register listener.js for window 4294967297
+1529386870534	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529386871217	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529386871217	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529386873015	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529386893372	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 7332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529387849864	geckodriver	INFO	geckodriver 0.20.1
+1529387849871	geckodriver	INFO	Listening on 127.0.0.1:50641
+1529387852938	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.SUN3Dnj8Omzz"
+1529387854440	Marionette	INFO	Enabled via --marionette
+[Parent 9300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5984, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529387857234	Marionette	INFO	Listening on port 50649
+1529387858255	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529387858345	Marionette	DEBUG	Register listener.js for window 4294967297
+1529387858369	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529387859315	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529387859316	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529387860814	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529387881492	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 9300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9300, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9360, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529388177162	geckodriver	INFO	geckodriver 0.20.1
+1529388177170	geckodriver	INFO	Listening on 127.0.0.1:50802
+1529388180249	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.CUP6iOI7ovxJ"
+1529388180997	Marionette	INFO	Enabled via --marionette
+[Parent 5844, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1904, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529388183552	Marionette	INFO	Listening on port 50811
+1529388183939	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529388184002	Marionette	DEBUG	Register listener.js for window 4294967297
+1529388184026	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529388184752	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529388184753	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529388186548	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529388206821	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode90
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode91
+[Child 7312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7312, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9040, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9148, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ent "unload" for "about:blank"
+1529388501702	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529388522139	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529388525879	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529388526820	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529388526821	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529388527184	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529388528039	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529388570840	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1529388570841	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 10204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10204, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7028, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529388625694	geckodriver	INFO	geckodriver 0.20.1
+1529388625700	geckodriver	INFO	Listening on 127.0.0.1:51022
+1529388628765	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.zQct8KGPqHkP"
+1529388630191	Marionette	INFO	Enabled via --marionette
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529388633063	Marionette	INFO	Listening on port 51030
+1529388634068	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529388634116	Marionette	DEBUG	Register listener.js for window 4294967297
+1529388634146	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529388634896	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529388634897	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529388636761	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529388657106	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529388660859	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529388661567	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529388661568	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529388661893	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529388662735	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529388726687	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 3000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7256, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+	Received DOM event "pagehide" for "about:blank"
+1529389107211	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529389108987	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529389129303	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 8848, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ette
+[Parent 3588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529389462444	Marionette	INFO	Listening on port 51679
+1529389462668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529389462730	Marionette	DEBUG	Register listener.js for window 4294967297
+1529389462774	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529389463555	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529389463555	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529389465113	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529389485716	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Child 9484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9484, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 3588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+nt "unload" for "about:blank"
+1529389565352	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529389586692	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10784, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+ event "beforeunload" for "about:blank"
+[GFX1-]: Could not get a DXGI adapter
+1529389655644	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529389655644	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529389657300	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529389677752	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 9404, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9912, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3012, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529389745215	geckodriver	INFO	geckodriver 0.20.1
+1529389745221	geckodriver	INFO	Listening on 127.0.0.1:52005
+1529389748233	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.583tZ1wVu3Aq"
+1529389749676	Marionette	INFO	Enabled via --marionette
+1529389752442	Marionette	INFO	Listening on port 52013
+1529389752606	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529389752671	Marionette	DEBUG	Register listener.js for window 4294967297
+1529389752709	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529389753370	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529389753371	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529389755219	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529389775424	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 10872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10872, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10020, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 6344, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+0	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529389968412	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529389968788	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529389969844	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529390033316	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 11132, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10696, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10748, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9420, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529412287041	geckodriver	INFO	geckodriver 0.20.1
+1529412287073	geckodriver	INFO	Listening on 127.0.0.1:55590
+1529412290217	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.epkFuzPTv4i3"
+1529412292525	Marionette	INFO	Enabled via --marionette
+[Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529412298526	Marionette	INFO	Listening on port 55598
+1529412298706	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529412298759	Marionette	DEBUG	Register listener.js for window 4294967297
+1529412299718	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529412300395	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529412300395	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529412302256	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529412322694	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529412326477	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529412327335	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529412327336	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529412328512	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529412328513	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529412392101	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 4136, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10528, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 5364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529471607760	geckodriver	INFO	geckodriver 0.20.1
+1529471607766	geckodriver	INFO	Listening on 127.0.0.1:49790
+1529471610885	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.EW3G773izUXN"
+1529471612724	Marionette	INFO	Enabled via --marionette
+[Child 7564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529471616123	Marionette	INFO	Listening on port 49798
+1529471616607	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529471616675	Marionette	DEBUG	Register listener.js for window 4294967297
+1529471617224	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529471618111	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529471618111	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529471619833	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529471640472	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529471644116	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529471644776	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529471644779	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529471645787	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529471645835	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529471709530	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8384, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+ 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529472272771	Marionette	INFO	Listening on port 50234
+1529472273120	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529472273181	Marionette	DEBUG	Register listener.js for window 4294967297
+1529472273206	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529472273940	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529472273941	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529472275634	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529472296306	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 8580, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+09: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529472369947	Marionette	INFO	Listening on port 50336
+1529472370841	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529472370929	Marionette	DEBUG	Register listener.js for window 4294967297
+1529472371003	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529472371724	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529472371724	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529472373422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529472393899	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
