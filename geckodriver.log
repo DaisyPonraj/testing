@@ -323,3 +323,433 @@ IPDL protocol error: Handler returned error code!
 1529472371724	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
 1529472373422	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
 1529472393899	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 8984, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8376, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: (msgtype=0x440006,name=PImageBridge::Msg_WillClose) Channel error: cannot send/recv
+
+.js for window 4294967297
+1529474822295	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529474822998	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529474822998	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529474824661	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529474866240	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529475873574	geckodriver	INFO	geckodriver 0.20.1
+1529475873581	geckodriver	INFO	Listening on 127.0.0.1:50902
+1529475876618	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.vyqIBcRiUz89"
+1529475878036	Marionette	INFO	Enabled via --marionette
+[Parent 7188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10096, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529475880871	Marionette	INFO	Listening on port 50910
+1529475881893	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529475881981	Marionette	DEBUG	Register listener.js for window 4294967297
+1529475882005	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529475882998	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529475882999	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529475884534	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529475905152	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529475908927	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7188, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8488, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 7188, Gecko_IOThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+DOM event "unload" for "about:blank"
+1529475971127	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529475991836	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529475995735	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529476004165	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 9180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 3492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529476755321	geckodriver	INFO	geckodriver 0.20.1
+1529476755330	geckodriver	INFO	Listening on 127.0.0.1:51236
+1529476758356	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.LVugejWR9DPJ"
+1529476759733	Marionette	INFO	Enabled via --marionette
+1529476762537	Marionette	INFO	Listening on port 51244
+1529476763657	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529476763726	Marionette	DEBUG	Register listener.js for window 4294967297
+1529476763751	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529476764535	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529476764535	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529476766045	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529476787120	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529476790881	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.flipkart.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+1529476799252	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.flipkart.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:495:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1690, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1690"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1690:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:620:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:577:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:668:7
+Line: 1690, column: 0
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529477343469	geckodriver	INFO	geckodriver 0.20.1
+1529477343476	geckodriver	INFO	Listening on 127.0.0.1:51629
+1529477346601	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.uPnq2M9Nr63d"
+1529477348013	Marionette	INFO	Enabled via --marionette
+[Child 9556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529477350578	Marionette	INFO	Listening on port 51638
+1529477350769	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529477350838	Marionette	DEBUG	Register listener.js for window 4294967297
+1529477350885	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529477351576	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529477351576	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529477353292	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529477373635	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529477377388	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529477388823	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529477389593	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529477389594	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529477390612	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529477390686	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529477454456	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 11088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9804, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 11088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513
+[Child 4224, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529478152414	geckodriver	INFO	geckodriver 0.20.1
+1529478152420	geckodriver	INFO	Listening on 127.0.0.1:51827
+1529478155452	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.8C2ukMsbmVyk"
+1529478156552	Marionette	INFO	Enabled via --marionette
+[Parent 7332, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529478159496	Marionette	INFO	Listening on port 51836
+1529478159666	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529478159725	Marionette	DEBUG	Register listener.js for window 4294967297
+1529478159759	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529478160537	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529478160537	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529478162399	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478182727	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529478186464	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478197936	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Child 7492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 7492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+46
+[Child 10728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529478436749	Marionette	INFO	Listening on port 51979
+1529478437189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529478437241	Marionette	DEBUG	Register listener.js for window 4294967297
+1529478437268	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529478437942	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529478437942	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529478439451	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478460135	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529478463870	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478475297	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478483593	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478494887	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529478495624	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529478495625	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529478496670	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478496729	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529478505936	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529478506576	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1529478507455	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478509929	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1529478509930	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 10388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10388, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8780, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 6060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1529478599281	geckodriver	INFO	geckodriver 0.20.1
+1529478599288	geckodriver	INFO	Listening on 127.0.0.1:52110
+1529478602302	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.FvTdMc4sw2mb"
+1529478603143	Marionette	INFO	Enabled via --marionette
+[Parent 452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529478605766	Marionette	INFO	Listening on port 52119
+1529478606019	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529478606083	Marionette	DEBUG	Register listener.js for window 4294967297
+1529478606115	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529478606958	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529478606958	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529478608448	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478629071	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529478632833	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478644251	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478652619	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478664160	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+[Parent 452, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10480, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2936, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ne 346
+1529478821571	Marionette	INFO	Listening on port 52262
+1529478821805	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529478821868	Marionette	DEBUG	Register listener.js for window 4294967297
+1529478821893	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529478822697	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529478822698	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529478824500	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478844861	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529478848621	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478860034	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478868391	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529478879617	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529478880410	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529478880411	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529478881470	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529478881524	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529478945168	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode217
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: this.win is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/auto-refresh.js, line 201: TypeError: null has no properties
+[Parent 3880, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9792, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+on
+1529480097976	Marionette	DEBUG	Register listener.js for window 4294967297
+1529480098119	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529480098901	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529480098901	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529480100491	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529480121171	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529480124901	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480136322	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480144657	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480155954	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529480156789	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529480156790	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529480157185	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529480158064	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529480221949	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 11216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10700, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 10880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+08	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529480316117	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480327588	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480335920	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480347282	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529480348187	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529480348189	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529480349353	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529480349414	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529480394834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1529480394834	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Parent 11112, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 4860, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 8636, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529480460005	geckodriver	INFO	geckodriver 0.20.1
+1529480460013	geckodriver	INFO	Listening on 127.0.0.1:53504
+1529480463034	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\201702~1.PAR\\AppData\\Local\\Temp\\rust_mozprofile.zhq6RSvvxhqm"
+1529480464589	Marionette	INFO	Enabled via --marionette
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11584, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1529480467275	Marionette	INFO	Listening on port 53512
+1529480468341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1529480468418	Marionette	DEBUG	Register listener.js for window 4294967297
+1529480468452	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1529480469222	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1529480469223	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1529480470668	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529480491370	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529480495185	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480506626	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480514908	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529480526279	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529480527232	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529480527233	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529480527546	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529480528407	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529480592541	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+[Parent 12212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode106
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode211
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode252
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode274
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode292
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode327
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode387
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode412
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode430
+console.error: 
+  Protocol error (noSuchActor): No such actor for ID: server1.conn0.child1/highlighter46
+[Parent 12212, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9300, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 11892, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ttps://www.flipkart.com/"
+1529480985479	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529480989213	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529481000682	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529481009008	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1529481020374	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529481021232	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529481021233	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529481021695	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967301"
+1529481022373	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529481086018	Marionette	DEBUG	Received DOM event "pageshow" for "https://www.flipkart.com/"
+1529481094479	Marionette	DEBUG	Received DOM event "beforeunload" for "https://www.flipkart.com/"
+1529481094988	Marionette	DEBUG	Received DOM event "pagehide" for "https://www.flipkart.com/"
+1529481094989	Marionette	DEBUG	Received DOM event "unload" for "https://www.flipkart.com/"
+1529481095200	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967304"
+1529481096204	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://www.flipkart.com/"
+1529481121105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967307"
+1529481121105	Marionette	DEBUG	Received observer notification "outer-window-destroyed" for "4294967297"
+[Child 10680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 10680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 11284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[GPU 9180, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
