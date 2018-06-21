@@ -27,7 +27,7 @@ def valid_un_pwd():
         Timer(5.0,searchBar).start()
 
 def searchBar():
-    searchField = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').send_keys("sofa")
+    searchField = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').send_keys("designer sofa")
     seachButton = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[2]/button').click()
     print ("search method successfull")
     Timer(5.0,selectProduct).start()
@@ -60,7 +60,7 @@ def logout():
 def nextItemFunc():
     nextItem = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').clear()
     time.sleep(3)
-    searchField = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').send_keys("shelf")
+    searchField = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').send_keys("book shelf")
     seachButton = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[2]/button').click()
     print ('next product ')
     Timer(5.0,selectProduct1).start()
@@ -84,4 +84,6 @@ def AddTocartFunc1():
 def checkcart():
         cart = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[2]/a').click()
         time.sleep(3)
+        qty = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div[1]/div[2]/div[1]/div/button[2]').click()
+        time.sleep(2)
 valid_un_pwd()
