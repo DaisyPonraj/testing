@@ -54,9 +54,7 @@ def nextItemFunc():
     time.sleep(3)
     searchField = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').send_keys(item2)
     seachButton = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[2]/button').click()
-    count = 1
-    if count < 2:
-        Timer(5.0,selectProduct).start()
+    
 closeMethod()
 
 
