@@ -18,13 +18,13 @@ password_x = '/html/body/div[2]/div/div/div/div/div[2]/div/form/div[2]/input'
 login_x = '/html/body/div[2]/div/div/div/div/div[2]/div/form/div[3]/button'
 
 def valid_un_pwd():
-        validusername = browser.find_element_by_xpath(username_x).send_keys(UN)
-        time.sleep(3)
-        validpassword = browser.find_element_by_xpath(password_x).send_keys(PWD)
-        login_into = browser.find_element_by_xpath(login_x).click()
-        print ("login successful")
-        time.sleep(3)
-        Timer(5.0,searchBar).start()
+    validusername = browser.find_element_by_xpath(username_x).send_keys(UN)
+    time.sleep(3)
+    validpassword = browser.find_element_by_xpath(password_x).send_keys(PWD)
+    login_into = browser.find_element_by_xpath(login_x).click()
+    print ("login successful")
+    time.sleep(3)
+    Timer(5.0,searchBar).start()
 
 def searchBar():
     searchField = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').send_keys("designer sofa")
@@ -50,12 +50,12 @@ def AddTocartFunc():
     Timer(5.0,nextItemFunc).start()
 
 def logout():
-        element_to_hover_over = browser.find_element_by_xpath('/html/body/div/div/header/div[1]/div/div/div/div[2]/div[1]/div/div/div')
-        hover = ActionChains(browser).move_to_element(element_to_hover_over)
-        hover.perform()
-        logoutbutton = browser.find_element_by_xpath('/html/body/div/div/header/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div[2]/div/ul/li[7]').click()
-        time.sleep(2)
-        print('logout successfull')  
+    element_to_hover_over = browser.find_element_by_xpath('/html/body/div/div/header/div[1]/div/div/div/div[2]/div[1]/div/div/div')
+    hover = ActionChains(browser).move_to_element(element_to_hover_over)
+    hover.perform()
+    logoutbutton = browser.find_element_by_xpath('/html/body/div/div/header/div[1]/div/div/div/div[2]/div[1]/div/div/div/div/div/div[2]/div/ul/li[7]').click()
+    time.sleep(2)
+    print('logout successfull')  
 
 def nextItemFunc():
     nextItem = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[1]/form/div/div[1]/div/input').clear()
@@ -82,8 +82,8 @@ def AddTocartFunc1():
     print ("add to cart successful")
     Timer(5.0,checkcart).start()
 def checkcart():
-        cart = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[2]/a').click()
-        time.sleep(3)
-        qty = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div[1]/div[2]/div[1]/div/button[2]').click()
-        time.sleep(2)
+    cart = browser.find_element_by_xpath('/html/body/div[1]/div/header/div[1]/div/div/div/div[2]/a').click()
+    time.sleep(3)
+    qty = browser.find_element_by_xpath('/html/body/div[1]/div/div[1]/div/div/div[1]/div/div[2]/div[1]/div[2]/div[1]/div/button[2]').click()
+    time.sleep(2)
 valid_un_pwd()
